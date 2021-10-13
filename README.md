@@ -6,7 +6,7 @@ A fully responsive modern business solution website
 
 Technologies Used: 
 + HTML
-+ CSS/Scss 
++ CSS/SCSS
 + Javascript
 + Firebase
 
