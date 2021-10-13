@@ -12,6 +12,7 @@ Technologies Used:
 
 Learned: 
 + Responsive Design 
++ CSS Flexbox / Grid 
 + Smooth Scroll
 + Image Illustrations from Undraw 
 
