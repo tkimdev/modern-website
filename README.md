@@ -1,6 +1,6 @@
 # modern-website
 
-A fully responsive business solution website 
+A fully responsive modern business solution website 
 
 ### [Live Site](https://tonykimdev.github.io/modern-website/)
 
