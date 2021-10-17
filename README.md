@@ -4,13 +4,13 @@ A fully responsive modern business solution website
 
 ### [Live Site](https://tonykimdev.github.io/modern-website/)
 
-Technologies Used: 
+### Technologies Used: 
 + HTML
 + CSS/SCSS
 + Javascript
 + Firebase
 
-Learned: 
+### Learned: 
 + Responsive Design 
 + CSS Flexbox / Grid 
 + Smooth Scroll
